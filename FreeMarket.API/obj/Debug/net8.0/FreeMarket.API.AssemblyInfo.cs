@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreeMarket.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+094b55594c00ffe2e79c9b211db5498bbb595e07")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreeMarket.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreeMarket.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
